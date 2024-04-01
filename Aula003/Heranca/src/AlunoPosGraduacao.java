@@ -1,4 +1,3 @@
-public class AlunoPosGraduacao extends Pessoa{
+public class AlunoPosGraduacao extends Aluno{
     char conceito;
-    int a = 1;
 }

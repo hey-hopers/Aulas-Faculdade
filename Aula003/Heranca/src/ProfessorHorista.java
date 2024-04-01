@@ -1,3 +1,3 @@
-public class ProfessorHorista extends Pessoa{
+public class ProfessorHorista extends Professor{
     
 }
